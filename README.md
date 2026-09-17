@@ -46,7 +46,7 @@ In this task, you need to perform the following steps:
         - Set availability option to `No infrastructure redundancy`
         - Use `Standard` security type 
         - Use `Ubuntu Server 24.04` as an operating system (publisher — `Canonical`)
-        - Use `B2ats_v2` VM size 
+        - Use `B2ats_v2` VM size
         - Use SSH key authentication (use your own SSH key)
         - Make sure VM is deployed **without auto-generated public IP**
 
